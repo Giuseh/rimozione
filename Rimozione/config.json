@@ -1,0 +1,18 @@
+{
+  "token": "MTA4Nzc4NDA0OTIxMDI5NDQyNQ.G-iaT7.nau7_xLmRnBXbcL82deOnndPeb9P3Hgrdu4vfg",
+  "clientID": "1087784049210294425",
+  "database": {
+    "host": "localhost",
+    "user": "rimozione",
+    "password": "6SvE#Pj2ip17",
+    "database": "rimozione",
+    "port": 3306
+  },
+  "discordRoles": {
+    "TIROCINANTE": "840957954940207144",
+    "AUTISTA": "840957954940207144",
+    "ESPERTO": "840957954940207144",
+    "KEY": "1044034522045497363",
+    "RIMO": "1073071556563050506"
+  }
+}
