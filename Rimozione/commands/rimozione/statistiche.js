@@ -1,3 +1,4 @@
+//Command to see employee statistics with number of impounds and releases
 const {
     SlashCommandBuilder, ActionRowBuilder, ButtonBuilder,ButtonStyle
 } = require('discord.js');
