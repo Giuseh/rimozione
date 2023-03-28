@@ -1,3 +1,4 @@
+// Command to see the list of vehicles in the database for 7 days or more
 const {
     SlashCommandBuilder,
     ActionRowBuilder,
