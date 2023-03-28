@@ -1,3 +1,4 @@
+//command to release impounded vehicle with photo link
 const {
     SlashCommandBuilder,
 } = require('discord.js');
