@@ -1,3 +1,4 @@
+//Command to sell the vehicles
 const {
     SlashCommandBuilder,
 } = require('discord.js');
