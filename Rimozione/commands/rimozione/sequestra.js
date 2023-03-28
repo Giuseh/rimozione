@@ -1,3 +1,4 @@
+//command to impound a vehicle with photo link
 const {
     SlashCommandBuilder,
 } = require('discord.js');
