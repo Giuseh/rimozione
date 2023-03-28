@@ -1,3 +1,4 @@
+//Command to see the list of all vehicles in the database
 const {
     SlashCommandBuilder,
 } = require('discord.js');
